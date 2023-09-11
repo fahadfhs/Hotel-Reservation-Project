@@ -1,0 +1,10 @@
+Users can see a list of hotels
+users can book hotels
+user can get a reservation ticket
+
+
+Classes:
+tip: look for nouns
+    User
+    Hotel
+    ReservationConfirmation
