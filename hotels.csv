@@ -1,10 +1,10 @@
 id,name,city,capacity,available
-134,Tourist Sunny Apartment,Anchorage,4,no
+134,Tourist Sunny Apartment,Anchorage,4,yes
 188,Snow Palace,New Delhi,5,no
 655,City Break Inn,Porto-Novo,3,no
 748,Avari Towers,Karachi,7,no
 209,Beachside Paradise Resort,Miami,6,no
-376,Mountain View Lodge,Aspen,4,no
+376,Mountain View Lodge,Aspen,4,yes
 512,Luxury Oasis Hotel,Dubai,8,yes
 693,Cozy Cabin Retreat,Denver,2,no
 827,Urban Skyline Suites,New York City,10,yes
